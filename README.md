@@ -1,9 +1,8 @@
 # git-by-example
 
-## What is Git
-1. Collaboration 
-1. Version control
-1. Commit sha (order and content)
-1. For text files only
+## Table of contents
 
-[01-check_status.md](01-check_status.md)
+1. [What is Git?](01-what_is_git.md)
+1. [Glossary](02-glossary.md)
+1. [Creating a repository]()
+1. [Look around](04-check_status.md)
