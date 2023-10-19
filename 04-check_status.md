@@ -7,5 +7,3 @@ git status # check the status of the current reposity, if we have some uncommitt
 
 git log # check the past commits on the current branch
 ```
-
-01-check_status.md
